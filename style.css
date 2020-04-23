@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+
+div {
+    margin: 30px;
+    padding: 10px;
+}
+
+h1 {
+    text-decoration: underline;
+    color: blue;
+}
+
+#water {
+    background-image: url("./resources/pirate-juanito.jpg");
+    width: 600px;
+    height: 300px;
+    margin-left: 300px;
+
+}
+
+.game-over {
+    color: red;
+}
+
+.won {
+    color: seagreen;
+}
+
